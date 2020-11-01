@@ -59,7 +59,7 @@ src/test/resources/suite        下编写测testng试套件文件组织测试用
 - ~~项目文件夹名和yml配置中项目名对应~~
 
 ### 接口测试工程示例
-仓库：
+仓库：https://github.com/tangyiming/ares-example
     
 ## 测试运行方式
 ### 命令行
